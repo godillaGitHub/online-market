@@ -2,7 +2,6 @@ package ru.geekbrains.online.market.api;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 
-
 import java.math.BigDecimal;
 
 @Schema(description = "Модель продукта")
